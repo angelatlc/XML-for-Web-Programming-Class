@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML document for Exercise 2 -->
+<person>
+  <name>
+    <firstName>John</firstName>
+     <lastName>Smith</lastName>
+  </name>
+  <occupation>Doctor</occupation>
+  <address>
+     <streetAddress>222 Peach Lane</streetAddress>
+     <city>New York</city>
+     <state>NY</state>
+     <zip>12345</zip>
+  </address>
+  <hobbies>
+     <hobby>Sculpting</hobby>
+     <hobby>Painting</hobby>
+  </hobbies>
+</person>
