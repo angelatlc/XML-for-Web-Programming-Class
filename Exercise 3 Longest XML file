@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML document for Exercise 4 -->
+<programOfStudy>
+
+<semester term="Fall 2008">
+  <genEd>
+     <course goal="8">PHIL 101</course>
+     <course goal="11">ECON 201</course>
+  </genEd>
+  <core>
+     <course>MGT 217</course>
+  </core>
+  <major>
+     <course>CIS 120</course>
+     <course>CIS 403</course>
+  </major>
+</semester>
+
+<semester term="Spring 2009">
+  <genEd>
+  </genEd>
+  <core>
+     <course>MGT 261</course>
+     <course>MKTG 325</course>
+  </core>
+  <major>
+     <course>CIS 220</course>
+     <course>CIS 407</course>
+     <course>CIS 490</course>
+  </major>
+</semester>
+
+</programOfStudy>
