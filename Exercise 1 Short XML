@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML document for Exercise 1 -->
+<exercises number="1">
+  <date>July 30, 2018</date>
+  <item>Exercise 1 has some text.</item>
+  <item>Exercise 2 has some more text.</item>
+</exercises>
